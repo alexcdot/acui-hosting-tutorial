@@ -1,7 +1,7 @@
 # Hosting tutorial at Hacktech 2019
 Learn to host with AWS, Nginx, Expressjs and Reactjs!
 
-[Here is the full tutorial](https://gist.github.com/alexcdot/c489390a31ba05f4d14d8ecad75f1fe8/edit)
+[Here is the full tutorial](https://gist.github.com/alexcdot/c489390a31ba05f4d14d8ecad75f1fe8/)
 
 Here are the links to the tutorials that make this repo work:
 
